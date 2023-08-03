@@ -5,6 +5,7 @@
 <div>
  <h1>Herramientas Utilizadas</h1>
  *Intellij IDE
+ <p>
  *JDK 15
 </div>
   
