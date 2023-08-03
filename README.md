@@ -14,7 +14,7 @@
   
   ---
   
-  <div>
+  <div align= center>
    <h1>Presentación</h1>
     <img src="https://github.com/Magucho/Efecto_Matrix/assets/98346054/0e735ff6-0002-4504-8016-8aa343509b01">   
   </div>
